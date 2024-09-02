@@ -1,0 +1,17 @@
+{
+    "name": "rpfront/tarefasphp",
+    "description": "Gerencie suas tarefas",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rpfront\\Tarefasphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ricpaula",
+            "email": "cadodepaulasilva159@gmail.com"
+        }
+    ],
+    "require": {}
+}
